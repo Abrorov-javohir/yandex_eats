@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "256183224495",
+    "firebase_url": "https://course-ad22a-default-rtdb.firebaseio.com",
+    "project_id": "course-ad22a",
+    "storage_bucket": "course-ad22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256183224495:android:dfe24684979bf5331dac5a",
+        "android_client_info": {
+          "package_name": "com.example.dars11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-EgfJqo4M_eXMBPi3rSdpDdsXC0x74P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256183224495:android:2dfd4cae5bd66fae1dac5a",
+        "android_client_info": {
+          "package_name": "com.example.dars75_yandexmap_restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-EgfJqo4M_eXMBPi3rSdpDdsXC0x74P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256183224495:android:edf53982f5b3274b1dac5a",
+        "android_client_info": {
+          "package_name": "com.example.dars9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-EgfJqo4M_eXMBPi3rSdpDdsXC0x74P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256183224495:android:15b47fc2017c01af1dac5a",
+        "android_client_info": {
+          "package_name": "com.example.uy_ishi_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-EgfJqo4M_eXMBPi3rSdpDdsXC0x74P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
